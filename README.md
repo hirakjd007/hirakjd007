@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hirakjd007
 - 👀 I’m interested in Full Stack Development 
 - 🌱 I’m currently learning 6 Sigma Green Belt certification
-- 📫 Mail me @ hirakjd187@gmail.com
+- 📫 Follow me on Twitter @hirakjd007
 
 <!---
 hirakjd007/hirakjd007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
